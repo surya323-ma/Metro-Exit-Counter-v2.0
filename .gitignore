@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+outputs/
+output*.mp4
+*.avi
+*.mov
+*.mkv
+.pytest_cache/
+.DS_Store
